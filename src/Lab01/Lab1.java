@@ -4,7 +4,8 @@
 * Description: Hello world program and first time experimentation's
  */
 package Lab01;
-import java.util.*;
+import java.util.Random;
+import  java.util.Scanner;
 public class Lab1 {
     public static void main(String[] args)
     {
